@@ -1,20 +1,31 @@
 /* Basic custom styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background: #f0f2f5;
 }
 
 .navbar-brand {
     font-weight: bold;
 }
 
+.navbar {
+    background: linear-gradient(90deg, #6610f2, #6f42c1);
+}
+
 .hero {
-    background: #f8f9fa;
-    padding: 60px 0;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+                url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+    padding: 100px 0;
     text-align: center;
+    color: #fff;
 }
 
 .section {
     padding: 60px 0;
+}
+
+.section.bg-light {
+    background: #ffffff;
 }
 
 footer {
