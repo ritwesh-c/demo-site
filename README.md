@@ -1,6 +1,6 @@
-# Demo IT Company Website
+# TechNova Solutions Website
 
-This repository contains a simple static website for a fictional IT company. It uses [Bootstrap](https://getbootstrap.com/), [jQuery](https://jquery.com/) and [Font Awesome](https://fontawesome.com/) from their CDNs.
+This repository contains a simple static website for a fictional IT firm called TechNova Solutions. It uses [Bootstrap](https://getbootstrap.com/), [jQuery](https://jquery.com/) and [Font Awesome](https://fontawesome.com/) from their CDNs.
 
 ## Structure
 
