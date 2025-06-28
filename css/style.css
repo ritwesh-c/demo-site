@@ -1,0 +1,41 @@
+/* Basic custom styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.hero {
+    background: #f8f9fa;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+footer {
+    background: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+footer a {
+    color: #ffc107;
+}
+
+blockquote {
+    font-size: 1.1rem;
+    background: #fff;
+    padding: 20px;
+    border-left: 5px solid #0d6efd;
+}
+
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
